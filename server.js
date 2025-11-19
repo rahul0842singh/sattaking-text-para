@@ -18,7 +18,8 @@ connectDB();
 const allowedOrigins = [
   "http://localhost:3000",
   "http://127.0.0.1:3000",
-  "http://192.168.29.158:3000", // your LAN frontend
+  "http://192.168.29.158:3000",
+  "https://sattakingsup.com", // your LAN frontend
   // add your deployed frontend origins here, for example:
   // "https://upsatta.in",
   // "https://www.upsatta.in",
